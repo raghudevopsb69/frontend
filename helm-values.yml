@@ -1,0 +1,8 @@
+component: frontend
+appVersion: 2.0.1
+
+service:
+  type: LoadBalancer
+  targetPort: 80
+
+

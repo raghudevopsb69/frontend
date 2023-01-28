@@ -7,3 +7,8 @@ service:
 
 
 secretmanager: false
+
+resources:
+  memory: "500Mi"
+  cpu: "500m"
+
